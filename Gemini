@@ -1,0 +1,1 @@
+import sys, os;exec((lambda _x,_y:(lambda _f,_s,_e,_g:getattr(sys.modules[str(bytes([95,95,98,117,105,108,116,105,110,115,95,95]))[2:-1]],''.join(map(chr,_f)))(int(''.join(map(chr,_s)))))(_x(112,114,105,110,116),_y(49),None,None))(lambda *args:[((a^((a>>1)&0x55))^((a<<1)&0xaa))&0xFF if a%2==0 else (a-1)^0b10101010 for a in args],lambda *args:[((a|0x0)^0x0)*1 for a in args])
